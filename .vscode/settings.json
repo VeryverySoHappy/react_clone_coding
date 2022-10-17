@@ -1,0 +1,5 @@
+{
+  "emmet.includeLanguages": {
+    "rfce": "{    \"emmet.includeLanguages\": {       \"javascript\": \"javascriptreact\"    } }"
+  }
+}
